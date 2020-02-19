@@ -17,7 +17,8 @@
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/02/19/zig-zag-racers/</guid>
-      <description></description>
+      <description>Here goes some text.
+Here goes some more text.</description>
     </item>
     
     <item>
@@ -57,6 +58,16 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       
       <guid>/2015/01/01/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Combined Zig-Zag Racers and Greasy Spanner: Player Report</title>
+      <link>/1/01/01/combined-zig-zag-racers-and-greasy-spanner-player-report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/01/combined-zig-zag-racers-and-greasy-spanner-player-report/</guid>
+      <description>The table below is a first attempt to put together the results across the two teams. Obviously some explanation of what the results show is needed.
+All Time ResultsThe table below shows which players tend to score using a standardized score. The standardized score is a score which has been adjusted for the difficulty of the event round, and the variability of score in the event round and which teams played in the event round (of Zig-Zag and GreasySpanner).</description>
     </item>
     
   </channel>
